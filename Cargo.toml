@@ -1,0 +1,11 @@
+[package]
+name = "constantine"
+version = "0.0.0"
+license = "MIT OR Apache-2.0"
+description = "[WIP] Constant evaluation magic"
+authors = ["Nikolai Vazquez"]
+edition = "2018"
+homepage = "https://github.com/nvzqz/constantine"
+repository = "https://github.com/nvzqz/constantine"
+documentation = "https://docs.rs/constantine"
+keywords = ["const"]
